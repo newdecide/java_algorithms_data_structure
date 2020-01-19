@@ -26,3 +26,26 @@
 3) 논리형 데이터(true, false)
     * boolean : 1비트
 
+> 자바 명령문 
+* 선언 : int number; long longnumber;
+
+* 대입 : a = b + 3;
+ ex) b = 2 -> a = 5
+
+* 초기화 선언 : char text = 'a';
+
+* 선증가 후감소 : ++i; 1--;
+
+* 조건문(if)
+if (logic1 < 0) {
+    logic = -logic;
+} 
+
+* 조건문2(if else)
+if (logic1 < logic2) { 
+    bignumber = logic2;
+}
+else {
+    smallnumber = logic1;
+}
+
