@@ -37,15 +37,18 @@
 * 선증가 후감소 : ++i; 1--;
 
 * 조건문(if)
+``` java
 if (logic1 < 0) {
     logic = -logic;
 } 
+```
 
 * 조건문2(if else)
+``` java
 if (logic1 < logic2) { 
     bignumber = logic2;
 }
 else {
     smallnumber = logic1;
 }
-
+```
