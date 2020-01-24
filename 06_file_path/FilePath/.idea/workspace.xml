@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f6c152-3727-4e9c-b50b-1f476fa62b92" name="Default Changelist" comment="" />
+    <list default="true" id="cc5bd75b-4ed6-43ef-9545-b68de92fa6ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../04_string_class/String_Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_string_class/String_Class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_string_class/String_Class/out/production/String_Class/String_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_string_class/String_Class/out/production/String_Class/String_Class.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +13,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/String_Class.java">
+        <entry file="file://$PROJECT_DIR$/src/FilePath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            <state relative-caret-position="150">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -39,7 +41,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/String_Class.java" />
+        <option value="$PROJECT_DIR$/src/FilePath.java" />
       </list>
     </option>
   </component>
@@ -51,8 +53,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1113" />
-    <option name="y" value="202" />
+    <option name="x" value="547" />
+    <option name="y" value="23" />
     <option name="width" value="1133" />
     <option name="height" value="1027" />
   </component>
@@ -66,8 +68,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="String_Class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="String_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="FilePath" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilePath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilePath" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilePath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -78,8 +85,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,16 +104,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="String_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Class" />
-      <module name="String_Class" />
+    <configuration name="FilePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilePath" />
+      <module name="FilePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_Class" />
+        <item itemvalue="Application.FilePath" />
       </list>
     </recent_temporary>
   </component>
@@ -112,16 +122,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95f6c152-3727-4e9c-b50b-1f476fa62b92" name="Default Changelist" comment="" />
-      <created>1579675880782</created>
+      <changelist id="cc5bd75b-4ed6-43ef-9545-b68de92fa6ca" name="Default Changelist" comment="" />
+      <created>1579875287779</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579675880782</updated>
+      <updated>1579875287779</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1113" y="202" width="1133" height="1027" extended-state="0" />
+    <frame x="547" y="23" width="1133" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25389552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,19 +163,88 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/String_Class.java">
+    <entry file="file://$PROJECT_DIR$/src/FilePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FilePath</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
