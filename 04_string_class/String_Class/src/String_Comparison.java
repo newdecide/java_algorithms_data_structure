@@ -1,4 +1,4 @@
-public class String_Class {
+public class String_Comparison {
     public static void main(String[] args) {
         String text1 = "java";
         String text2 = "code";
