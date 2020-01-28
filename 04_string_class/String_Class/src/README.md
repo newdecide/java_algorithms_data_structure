@@ -6,3 +6,8 @@
     
     값이 Null인 데이터의 길이를 확인하면 NullPointerException이 발생한다. 
     빈문자열은 데이터 길이를 확인하면 에러없이 값이 0으로 출력된다.
+<b>3. 스트링 클래스 생성자</b>
+    
+    1) new String();
+    2) new String(byte[] bytes);
+    3) new String(byte[] bytes, Charset charset);
