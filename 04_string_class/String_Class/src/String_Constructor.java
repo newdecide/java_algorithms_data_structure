@@ -1,3 +1,4 @@
+import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 
 public class String_Constructor {
@@ -16,5 +17,15 @@ public class String_Constructor {
         System.out.println("2."+byte_string);
 
         System.out.println("3."+new String(bytes, Charset.forName("UTF-8")));
+
+        byte[] bytearray = {'h','e','l','l','o','w','o','r','l','d'};
+
+        System.out.println("4."+new String(bytearray, 0, 5 ));
+
+        try {
+            System.out.println("5."+new String(bytearray, 5,5, "UTF-8"));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
     }
 }
