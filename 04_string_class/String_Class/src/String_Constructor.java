@@ -27,5 +27,15 @@ public class String_Constructor {
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }
+
+        System.out.println("6."+new String(bytearray, 0,10, Charset.forName("EUC-KR")));
+
+        byte[] bytearray2 = {'j','a','v','a'};
+
+        try {
+            System.out.println("7."+new String(bytearray2, "UTF-8"));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
     }
 }
