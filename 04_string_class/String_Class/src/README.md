@@ -12,4 +12,5 @@
     2) new String(byte[] bytes);
     3) new String(byte[] bytes, Charset charset);
     4) new String(byte[] bytes, int offset, int length);
-    5) new string(byte[] bytes, int offset, int length, Charset charset);
+    5) new String(byte[] bytes, int offset, int length, Charset charset);
+    6) new String(byte[] bytes, int offset, int length, String charsetName);
