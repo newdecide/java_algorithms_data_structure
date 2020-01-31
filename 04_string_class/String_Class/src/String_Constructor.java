@@ -37,5 +37,11 @@ public class String_Constructor {
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }
+
+        char[] chararray = {'d','a','t','a','s','t','r','u','c','t','u','r','e'};
+
+        System.out.println("8."+new String(chararray));
+
+        System.out.println("9."+new String(chararray, 0,4));
     }
 }
