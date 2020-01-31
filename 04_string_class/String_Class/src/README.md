@@ -14,3 +14,6 @@
     4) new String(byte[] bytes, int offset, int length);
     5) new String(byte[] bytes, int offset, int length, Charset charset);
     6) new String(byte[] bytes, int offset, int length, String charsetName);
+    7) new String(byte[] bytes, String charsetName);
+    8) new String(char[] value);
+    9) new String(char[] value, int offset, int count);
