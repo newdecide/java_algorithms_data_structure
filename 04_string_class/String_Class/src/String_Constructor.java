@@ -43,5 +43,12 @@ public class String_Constructor {
         System.out.println("8."+new String(chararray));
 
         System.out.println("9."+new String(chararray, 0,4));
+
+        int[] inttostring = {99,104,97,110,103,101};
+
+        System.out.println("10."+new String(inttostring, 0, 6));
+
+        String stringtype = "String Type";
+        System.out.println("11."+stringtype);
     }
 }
