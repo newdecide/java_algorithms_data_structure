@@ -17,3 +17,5 @@
     7) new String(byte[] bytes, String charsetName);
     8) new String(char[] value);
     9) new String(char[] value, int offset, int count);
+    10) new String(int[] codePoints, int offset, int count);
+    11) new String(String original);
