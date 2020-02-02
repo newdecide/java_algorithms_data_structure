@@ -50,5 +50,13 @@ public class String_Constructor {
 
         String stringtype = "String Type";
         System.out.println("11."+stringtype);
+
+        StringBuffer stringBuffer = new StringBuffer();
+        stringBuffer.append("스트링 버퍼");
+        System.out.println("12."+ new String(stringBuffer));
+
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("스트링 빌더");
+        System.out.println("13."+ new String(stringBuilder));
     }
 }
