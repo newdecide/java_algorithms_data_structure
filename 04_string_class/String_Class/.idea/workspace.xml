@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f6c152-3727-4e9c-b50b-1f476fa62b92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../07_temp_file_create/Temp_File_Create/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_temp_file_create/Temp_File_Create/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String_Constructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
+            <state relative-caret-position="723">
               <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -39,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="405">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String_Start_End.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -75,15 +83,16 @@
         <option value="$PROJECT_DIR$/src/String_Class.java" />
         <option value="$PROJECT_DIR$/src/Null_Empry_String.java" />
         <option value="$PROJECT_DIR$/src/String_Comparison.java" />
-        <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/src/String_Constructor.java" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/String_Start_End.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="53" />
-    <option name="y" value="27" />
-    <option name="width" value="1133" />
+    <option name="y" value="23" />
+    <option name="width" value="984" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,8 +117,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_Constructor">
+  <component name="RunManager" selected="Application.String_Start_End">
     <configuration name="Null_Empry_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Null_Empry_String" />
       <module name="String_Class" />
@@ -150,8 +159,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Start_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Start_End" />
+      <module name="String_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Start_End" />
         <item itemvalue="Application.String_Constructor" />
         <item itemvalue="Application.Null_Empry_String" />
         <item itemvalue="Application.String_Comparison" />
@@ -172,10 +189,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="27" width="1133" height="1027" extended-state="0" />
+    <frame x="53" y="23" width="984" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2914757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34394905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,7 +248,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String_Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="723">
           <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -241,8 +258,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="405">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_Start_End.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

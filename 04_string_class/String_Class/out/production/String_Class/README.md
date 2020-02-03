@@ -21,3 +21,8 @@
     11) new String(String original);
     12) new String(StringBuffer buffer);
     13) new String(StringBuilder builder);
+
+<b>4. 스트링 시작값 끝값 확인 메서드</b>
+        
+        1) startWith()
+        2) endWith()
