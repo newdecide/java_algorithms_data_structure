@@ -1,6 +1,10 @@
 # String Class
 
-<b>1. 문자열 비교(compareTo())</b>
+<b>1. 문자열 비교</b>
+    
+    1) compareTo()
+    2) equals()
+
 
 <b>2. Null과 빈문자열</b>
     
