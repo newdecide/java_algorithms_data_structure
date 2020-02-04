@@ -3,9 +3,11 @@ public class String_Comparison {
         String text1 = "java";
         String text2 = "code";
 
-        System.out.println("java vs code: " +text1.compareTo(text2));
+        System.out.println("java vs code: " + text1.compareTo(text2));
+        System.out.println("java vs code = " + text1.equals(text2));
         text2 = "java";
-        System.out.println("java vs java: "+text1.compareTo(text2));
+        System.out.println("java vs java: " + text1.compareTo(text2));
+        System.out.println("java vs java = " + text1.equals(text2));
     }
 }
 
