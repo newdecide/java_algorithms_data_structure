@@ -30,3 +30,8 @@
         
         1) startWith();
         2) endWith();
+
+<b>5. 스트링 인덱스 오프 메서드</b>
+
+    1) indexOf();
+    2) lastIndexOf();
