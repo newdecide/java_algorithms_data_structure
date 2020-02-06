@@ -35,3 +35,8 @@
 
     1) indexOf();
     2) lastIndexOf();
+
+<b>6. 스트링 텍스트 변환</b>
+
+    1) replace();
+    2) replaceAll();
