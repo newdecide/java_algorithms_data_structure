@@ -40,3 +40,8 @@
 
     1) replace();
     2) replaceAll();
+
+
+<b>7. 스트링 텍스트 나누기</b>
+
+    1) split();
