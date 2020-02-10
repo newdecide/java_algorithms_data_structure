@@ -54,3 +54,7 @@
 <b>9. 스트링 소문자 변환 </b>
 
     1) toLowerCase();
+
+<b>10. 스트링 대문자 변환 </b>
+
+    1) toUpperCase();
