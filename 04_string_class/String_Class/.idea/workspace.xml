@@ -140,8 +140,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1218" />
-    <option name="y" value="23" />
+    <option name="x" value="74" />
+    <option name="y" value="37" />
     <option name="width" value="1106" />
     <option name="height" value="1417" />
   </component>
@@ -188,29 +188,22 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.String_ToString">
-    <configuration name="StringSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSubstring" />
-      <module name="String_Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringToLowerCase" />
-      <module name="String_Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringToUpperCase" />
-      <module name="String_Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="String_Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Split" />
+      <module name="String_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Substring" />
+      <module name="String_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_ToLowerCase" />
       <module name="String_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -223,12 +216,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_ToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_ToUpperCase" />
+      <module name="String_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.String_ToString" />
-        <item itemvalue="Application.StringToUpperCase" />
-        <item itemvalue="Application.StringToLowerCase" />
-        <item itemvalue="Application.StringSubstring" />
+        <item itemvalue="Application.String_ToUpperCase" />
+        <item itemvalue="Application.String_ToLowerCase" />
+        <item itemvalue="Application.String_Substring" />
         <item itemvalue="Application.String_Split" />
       </list>
     </recent_temporary>
