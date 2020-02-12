@@ -58,3 +58,8 @@
 <b>10. 스트링 대문자 변환 </b>
 
     1) toUpperCase();
+
+<b>11. 스트링 문자열로 변환 </b>
+
+    1) toString();
+    2) Integer.toString();

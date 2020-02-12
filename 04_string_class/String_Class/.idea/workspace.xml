@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f6c152-3727-4e9c-b50b-1f476fa62b92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String_ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_trim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/String_Class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/String_Class/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/String_Class/StringSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/String_Class/StringToLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/String_Class/StringToUpperCase.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/String_Substring.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -37,7 +31,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringToLowerCase.java">
+        <entry file="file://$PROJECT_DIR$/src/String_ToLowerCase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="59" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
@@ -46,7 +40,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringToUpperCase.java">
+        <entry file="file://$PROJECT_DIR$/src/String_ToUpperCase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -54,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String_ToString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String_trim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -136,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/StringToLowerCase.java" />
         <option value="$PROJECT_DIR$/src/StringToUpperCase.java" />
         <option value="$PROJECT_DIR$/src/String_ToString.java" />
+        <option value="$PROJECT_DIR$/src/String_trim.java" />
       </list>
     </option>
   </component>
@@ -151,8 +155,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,14 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_ToString">
-    <configuration name="String_Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Split" />
-      <module name="String_Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.String_trim">
     <configuration name="String_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Substring" />
       <module name="String_Class" />
@@ -223,13 +220,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_trim" />
+      <module name="String_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_trim" />
         <item itemvalue="Application.String_ToString" />
         <item itemvalue="Application.String_ToUpperCase" />
         <item itemvalue="Application.String_ToLowerCase" />
         <item itemvalue="Application.String_Substring" />
-        <item itemvalue="Application.String_Split" />
       </list>
     </recent_temporary>
   </component>
@@ -247,10 +251,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1218" y="23" width="1106" height="1417" extended-state="0" />
+    <frame x="74" y="37" width="1106" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3505639" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35714287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,17 +346,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/String_Substring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringToLowerCase.java">
+    <entry file="file://$PROJECT_DIR$/src/String_ToLowerCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="59" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_ToUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -391,17 +402,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringToUpperCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/String_ToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_trim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
         </state>
       </provider>
     </entry>

@@ -63,3 +63,7 @@
 
     1) toString();
     2) Integer.toString();
+
+<b>12. 스트링 문자열 앞뒤 공백 제거 </b>
+
+    1) trim();
