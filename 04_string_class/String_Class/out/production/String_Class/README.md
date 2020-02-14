@@ -4,6 +4,7 @@
     
     1) compareTo()
     2) equals()
+    3) contains()
 
 
 <b>2. Null과 빈문자열</b>
