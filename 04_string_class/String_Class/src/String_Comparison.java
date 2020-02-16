@@ -11,6 +11,12 @@ public class String_Comparison {
         text2 = "va";
         System.out.println("java 문자열 안에 va가 있나요? " + text1.contains(text2));
 
+        int number = 1000000;
+        String intcompare = String.format("%,d", number);
+        String stringcompare = "1,000,000";
+        boolean matches = intcompare.matches(stringcompare);
+        System.out.println("int와 string 비교 : " + matches);
+
     }
 }
 
