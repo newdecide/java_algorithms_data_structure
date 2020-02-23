@@ -7,3 +7,6 @@
         stack.peek();
     4) empty : 데이터 값 유무 확인
         stack.empty();
+    5) pop : 데이터 삭제
+        stack.pop();
+    6) search.search();
