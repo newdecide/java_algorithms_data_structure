@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18c5bd6c-7798-4eeb-9759-3ffd11a6022e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Queue_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue_add.java" afterDir="false" />
-    </list>
+    <list default="true" id="18c5bd6c-7798-4eeb-9759-3ffd11a6022e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +130,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="23" width="1106" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
