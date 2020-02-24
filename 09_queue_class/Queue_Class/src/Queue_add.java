@@ -9,5 +9,4 @@ public class Queue_add {
         }
         System.out.println(queue);
     }
-    }
 }

@@ -1,0 +1,29 @@
+From 8763c0ea57cf46328a4d7df27e8a3257896179ba Mon Sep 17 00:00:00 2001
+From: newdecide <liberty-1@nate.com>
+Date: Mon, 24 Feb 2020 21:31:37 +0900
+Subject: [PATCH] =?UTF-8?q?[=EC=83=9D=EC=84=B1]=20README=20=ED=81=90=20?=
+ =?UTF-8?q?=ED=81=B4=EB=9E=98=EC=8A=A4=20=EB=8D=B0=EC=9D=B4=ED=84=B0=20?=
+ =?UTF-8?q?=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 09_queue_class/Queue_Class/src/README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 09_queue_class/Queue_Class/src/README.md
+
+diff --git a/09_queue_class/Queue_Class/src/README.md b/09_queue_class/Queue_Class/src/README.md
+new file mode 100644
+index 0000000..6f4d01e
+--- /dev/null
++++ b/09_queue_class/Queue_Class/src/README.md
+@@ -0,0 +1,5 @@
++# 09. 큐 클래스
++    1) 링크드리스트 객체 생성 
++        LinkedList queue = new LinkedList();
++    2) add : 데이터 추가 
++        queue.add();
+-- 
+2.20.1
+
