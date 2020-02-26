@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Queuue_peek {
+public class Queue_peek {
     public static void main(String[] args) {
         LinkedList queue = new LinkedList();
         for (int i = 1; i <= 5; i++) {
