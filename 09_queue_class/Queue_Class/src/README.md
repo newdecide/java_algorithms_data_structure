@@ -7,3 +7,5 @@
         queue.peek();
     4) poll : 첫번째 데이터 반환 및 제거 
         queue.poll();
+    5) remove : 첫번째 데이터 제거
+        queue.remove();
