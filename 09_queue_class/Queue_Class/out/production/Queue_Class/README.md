@@ -5,3 +5,5 @@
         queue.add();
     3) peek : 첫번째 데이터 조회
         queue.peek();
+    4) poll : 첫번째 데이터 반환 및 제거 
+        queue.poll();
