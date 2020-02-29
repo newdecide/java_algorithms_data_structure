@@ -9,4 +9,5 @@
         stack.empty();
     5) pop : 데이터 삭제
         stack.pop();
-    6) search.search();
+    6) search : 데이터 인덱스 조회
+        search.search();
