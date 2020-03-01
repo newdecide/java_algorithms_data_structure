@@ -13,7 +13,7 @@ public class Stack_Combination {
         System.out.println("스택 top[6] : "+stack.search('A'));
         System.out.println("나간 데이터1 : "+stack.pop());
         System.out.println("스택이 비어 있나요 : "+stack.empty());
-        
+
         System.out.println("나간 데이터2 : "+stack.pop());
         System.out.println("나간 데이터3 : "+stack.pop());
         System.out.println("나간 데이터4 : "+stack.pop());
