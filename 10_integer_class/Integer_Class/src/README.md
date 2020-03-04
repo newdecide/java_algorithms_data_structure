@@ -7,3 +7,7 @@
         - compareTo();
     3) 문자열 정수형 변환
         - Integer.parseInt();
+    4) 10진수 진법 변환
+        - Integer.toBinaryStri∂ng();
+        - Integer.toOctalString();
+        - Integer.toHexString();
