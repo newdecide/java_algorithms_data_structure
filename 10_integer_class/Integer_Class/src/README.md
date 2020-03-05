@@ -11,3 +11,6 @@
         - Integer.toBinaryStri∂ng();
         - Integer.toOctalString();
         - Integer.toHexString();
+    5) 데이터 타입과 비트수 확인
+        - Integer.TYPE
+        - Integer.SIZE
