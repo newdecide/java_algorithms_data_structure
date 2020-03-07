@@ -15,4 +15,4 @@
         - Integer.TYPE
         - Integer.SIZE
     6) 해시코드 변환
-        - .hashcode();
+        - Integer.hashcode();
