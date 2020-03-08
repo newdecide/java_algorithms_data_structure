@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Integer_BitCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Integer_Class/META-INF/Integer_Class.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Integer_Class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Integer_Class/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
@@ -44,8 +42,9 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Application.Integer_BitCount">
+  <component name="RunManager" selected="Application.Integer_Decode">
     <configuration name="Integer_BitCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integer_BitCount" />
       <module name="Integer_Class" />
@@ -60,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Hashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Hashcode" />
+    <configuration name="Integer_Decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_Decode" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Parse_Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Parse_Int" />
+    <configuration name="Integer_Hashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_Hashcode" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_Decode" />
+        <item itemvalue="Application.Integer_Decimal_Conversion" />
         <item itemvalue="Application.Integer_BitCount" />
         <item itemvalue="Application.Integer_Hashcode" />
         <item itemvalue="Application.Integer_Type_Size" />
-        <item itemvalue="Application.Integer_Decimal_Conversion" />
-        <item itemvalue="Application.Integer_Parse_Int" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583070739011</updated>
       <workItem from="1583497051669" duration="143000" />
-      <workItem from="1583587239231" duration="514000" />
+      <workItem from="1583587239231" duration="677000" />
+      <workItem from="1583669903826" duration="1306000" />
     </task>
     <servers />
   </component>
@@ -110,22 +110,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1583587731961">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1583671417654">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1583587731961" />
-    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1583587731960">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1583671417654" />
+    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1583671417654">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1583587731960" />
-    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1583587731960">
+    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1583671417654" />
+    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1583671417653">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1583587731960" />
-    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1583587731961">
+    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1583671417653" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1583671417654">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1583587731961" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1583671417654" />
+    <state x="277" y="313" key="SettingsEditor" timestamp="1583670071928">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="277" y="313" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1583670071928" />
     <state x="914" y="465" key="com.intellij.ide.util.TipDialog" timestamp="1583587246457">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

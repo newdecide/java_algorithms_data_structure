@@ -15,4 +15,7 @@
         - Integer.TYPE
         - Integer.SIZE
     6) 해시코드 변환
-        - Integer.hashcode();
+        - Integer.hashCode();
+    7) 정수 데이터 비트수 확인
+        - Integer.bitCount();
+    8) 8, 10, 16진수 디코드 변환
