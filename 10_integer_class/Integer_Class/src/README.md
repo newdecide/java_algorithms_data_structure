@@ -20,3 +20,5 @@
         - Integer.bitCount();
     8) 8,16진수 디코드 변환
         - Integer.decode();
+    9) reverse 변환
+        - Integer.reverse();
