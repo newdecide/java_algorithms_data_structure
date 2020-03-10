@@ -22,3 +22,5 @@
         - Integer.decode();
     9) reverse 변환
         - Integer.reverse();
+    10) 부호 확인
+        - Integer.signum();
