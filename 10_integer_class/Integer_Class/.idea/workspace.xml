@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Integer_Signnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Integer_Class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Integer_Class/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Integer_MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_MaxMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Application.Integer_Signnum">
+  <component name="RunManager" selected="Application.Integer_MaxMin">
     <configuration name="Integer_Decimal_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integer_Decimal_Conversion" />
       <module name="Integer_Class" />
@@ -58,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Decode" />
+    <configuration name="Integer_Hashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_Hashcode" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Hashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Hashcode" />
+    <configuration name="Integer_MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_MaxMin" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_MaxMin" />
         <item itemvalue="Application.Integer_Signnum" />
         <item itemvalue="Application.Integer_reverse" />
         <item itemvalue="Application.Integer_Decimal_Conversion" />
         <item itemvalue="Application.Integer_Hashcode" />
-        <item itemvalue="Application.Integer_Decode" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,8 @@
       <workItem from="1583587239231" duration="677000" />
       <workItem from="1583669903826" duration="1389000" />
       <workItem from="1583754299704" duration="1949000" />
-      <workItem from="1583848892940" duration="801000" />
+      <workItem from="1583848892940" duration="1067000" />
+      <workItem from="1583932591574" duration="410000" />
     </task>
     <servers />
   </component>
@@ -122,22 +122,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="581" y="390" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1583754897383" />
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1583850500732">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1583932968013">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1583850500732" />
-    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1583850500731">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1583932968013" />
+    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1583932968012">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1583850500731" />
-    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1583850500730">
+    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1583932968012" />
+    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1583932968012">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1583850500730" />
-    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1583850500731">
+    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1583932968012" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1583932968013">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1583850500731" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1583932968013" />
     <state width="1066" height="334" key="GridCell.Tab.1.bottom" timestamp="1583756365391">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
