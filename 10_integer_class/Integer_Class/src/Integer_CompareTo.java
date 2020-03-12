@@ -13,5 +13,12 @@ public class Integer_CompareTo {
         if (compare_result2 == 1){
             System.out.println("12345와 다르다.");
         }
+
+        System.out.println();
+
+        System.out.println("100과 100이 같으면[0], 아니면[1] : " + Integer.compare(100, 100));
+        System.out.println("120 > 109[a > b(a가 크면 : 1]) : " + Integer.compare(120, 109));
+        System.out.println("104 < 109[a < b(b가 크면 : -1]) : " + Integer.compare(104, 109));
+
     }
 }

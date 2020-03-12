@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Integer_MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Integer_CompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_CompareTo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +20,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -50,16 +45,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Application.Integer_MaxMin">
-    <configuration name="Integer_Decimal_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Decimal_Conversion" />
+  <component name="RunManager" selected="Application.Integer_CompareTo">
+    <configuration name="Integer_CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_CompareTo" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Hashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Hashcode" />
+    <configuration name="Integer_Decimal_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_Decimal_Conversion" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_CompareTo" />
         <item itemvalue="Application.Integer_MaxMin" />
         <item itemvalue="Application.Integer_Signnum" />
         <item itemvalue="Application.Integer_reverse" />
         <item itemvalue="Application.Integer_Decimal_Conversion" />
-        <item itemvalue="Application.Integer_Hashcode" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +106,8 @@
       <workItem from="1583669903826" duration="1389000" />
       <workItem from="1583754299704" duration="1949000" />
       <workItem from="1583848892940" duration="1067000" />
-      <workItem from="1583932591574" duration="533000" />
+      <workItem from="1583932591574" duration="648000" />
+      <workItem from="1584021881339" duration="622000" />
     </task>
     <servers />
   </component>
@@ -123,22 +119,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="581" y="390" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1583754897383" />
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1583933182567">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1584022521537">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1583933182567" />
-    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1583933182566">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584022521537" />
+    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1584022521537">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1583933182566" />
-    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1583933182566">
+    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584022521537" />
+    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1584022521536">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1583933182566" />
-    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1583933182567">
+    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584022521536" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1584022521537">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1583933182567" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584022521537" />
     <state width="1066" height="334" key="GridCell.Tab.1.bottom" timestamp="1583756365391">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -163,6 +159,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="914" y="465" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1583587246457" />
+    <state x="360" y="261" width="816" height="825" key="find.popup" timestamp="1584022053026">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="360" y="261" width="816" height="825" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1584022053026" />
     <state x="629" y="255" key="new project wizard" timestamp="1583497191438">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
