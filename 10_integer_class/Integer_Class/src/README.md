@@ -7,6 +7,7 @@
         - Integer.min();
     2) 정수형 숫자 비교
         - compareTo();
+        - compare();
     3) 문자열 정수형 변환
         - Integer.parseInt();
     4) 10진수 진법 변환
