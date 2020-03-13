@@ -27,3 +27,5 @@
         - Integer.reverse();
     10) 부호 확인
         - Integer.signum();
+    11) 정수 비트화 zero 개수 확인
+        - Integer.numberOfTrailingZeros();
