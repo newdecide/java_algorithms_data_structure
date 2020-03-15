@@ -30,3 +30,5 @@
         - Integer.signum();
     11) 정수 비트 끝부분 zero 개수 확인
         - Integer.numberOfTrailingZeros();
+    12) 오른쪽 쉬프트
+        - Integer.rotateRight();
