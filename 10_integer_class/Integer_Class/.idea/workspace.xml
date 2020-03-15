@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Integer_Parse_Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_Parse_Int.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Application.Integer_Parse_Int">
+  <component name="RunManager" selected="Application.Integer_RotateRight">
     <configuration name="Integer_CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integer_CompareTo" />
       <module name="Integer_Class" />
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_Signnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_Signnum" />
+    <configuration name="Integer_RotateRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_RotateRight" />
       <module name="Integer_Class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_RotateRight" />
         <item itemvalue="Application.Integer_Parse_Int" />
         <item itemvalue="Application.Integer_numberOfLeadingZero" />
         <item itemvalue="Application.Integer_CompareTo" />
         <item itemvalue="Application.Integer_MaxMin" />
-        <item itemvalue="Application.Integer_Signnum" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +109,7 @@
       <workItem from="1584021881339" duration="883000" />
       <workItem from="1584107101716" duration="504000" />
       <workItem from="1584193448857" duration="309000" />
+      <workItem from="1584276455317" duration="1066000" />
     </task>
     <servers />
   </component>
@@ -121,22 +121,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="581" y="390" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1583754897383" />
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1584193757560">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom" timestamp="1584277979669">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584193757560" />
-    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1584193757559">
+    <state width="1066" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584277979669" />
+    <state width="1066" height="271" key="GridCell.Tab.0.center" timestamp="1584277979668">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584193757559" />
-    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1584193757559">
+    <state width="1066" height="271" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584277979668" />
+    <state width="1066" height="271" key="GridCell.Tab.0.left" timestamp="1584277979668">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584193757559" />
-    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1584193757559">
+    <state width="1066" height="271" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584277979668" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right" timestamp="1584277979668">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584193757559" />
+    <state width="1066" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584277979668" />
     <state width="1066" height="334" key="GridCell.Tab.1.bottom" timestamp="1583756365391">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
