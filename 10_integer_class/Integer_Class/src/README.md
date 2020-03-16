@@ -32,3 +32,5 @@
         - Integer.numberOfTrailingZeros();
     12) 오른쪽 쉬프트
         - Integer.rotateRight();
+    13) 왼쪽 쉬프트
+        - Integer.rotateLeft();
