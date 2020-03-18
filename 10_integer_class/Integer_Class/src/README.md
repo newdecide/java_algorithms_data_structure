@@ -34,3 +34,5 @@
         - Integer.rotateRight();
     13) 왼쪽 쉬프트
         - Integer.rotateLeft();
+    14) 정수 음수 확인
+        - Integer.numberOfLeadingZeros();
