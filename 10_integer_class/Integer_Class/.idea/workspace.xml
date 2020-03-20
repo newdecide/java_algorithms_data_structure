@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Integer_LowestOneBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Integer_Class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Integer_Class/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Integer_HighestOneBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_HighestOneBit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +115,7 @@
       <workItem from="1584426732624" duration="1027000" />
       <workItem from="1584512096912" duration="2844000" />
       <workItem from="1584617519814" duration="1066000" />
-      <workItem from="1584693286229" duration="705000" />
+      <workItem from="1584693286229" duration="808000" />
     </task>
     <servers />
   </component>
@@ -129,26 +127,26 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="581" y="390" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1583754897383" />
-    <state width="1368" height="408" key="GridCell.Tab.0.bottom" timestamp="1584700170482">
+    <state width="1368" height="408" key="GridCell.Tab.0.bottom" timestamp="1584700363618">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769437" />
-    <state width="1368" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584700170482" />
-    <state width="1368" height="408" key="GridCell.Tab.0.center" timestamp="1584700170481">
+    <state width="1368" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584700363618" />
+    <state width="1368" height="408" key="GridCell.Tab.0.center" timestamp="1584700363617">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769436" />
-    <state width="1368" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584700170481" />
-    <state width="1368" height="408" key="GridCell.Tab.0.left" timestamp="1584700170481">
+    <state width="1368" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584700363617" />
+    <state width="1368" height="408" key="GridCell.Tab.0.left" timestamp="1584700363617">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769436" />
-    <state width="1368" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584700170481" />
-    <state width="1368" height="408" key="GridCell.Tab.0.right" timestamp="1584700170482">
+    <state width="1368" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584700363617" />
+    <state width="1368" height="408" key="GridCell.Tab.0.right" timestamp="1584700363617">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769437" />
-    <state width="1368" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584700170482" />
+    <state width="1368" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584700363617" />
     <state width="1066" height="334" key="GridCell.Tab.1.bottom" timestamp="1583756365391">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
