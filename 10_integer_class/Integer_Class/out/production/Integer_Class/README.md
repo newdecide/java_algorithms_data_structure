@@ -36,3 +36,7 @@
         - Integer.rotateLeft();
     14) 정수 음수 확인
         - Integer.numberOfLeadingZeros();
+    15) 2진수 최고 비트
+        - Integer.highestOneBit();
+    16) 2진수 최저 비트
+        - Integer.lowestOneBit();
