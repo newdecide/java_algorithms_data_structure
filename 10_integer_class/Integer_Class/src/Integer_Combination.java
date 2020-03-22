@@ -12,8 +12,8 @@ public class Integer_Combination {
 
         System.out.println("원데이터 : " + number);
         System.out.println("최고 비트 + 최저 비트 : " + Integer.valueOf(highbit+lowestbit));
-        System.out.println("원데이터 - 최저 + 최고비트 : " + Integer.valueOf(number-highbit+lowestbit-2));
-        System.out.println("가운데 비트 변환 : " + Integer.toBinaryString(number-highbit+lowestbit-2));
+        System.out.println("원데이터 - 최저, 최고비트(중간값) : " + Integer.valueOf(number-highbit-lowestbit));
+        System.out.println("중간값(2진수 변환) : " + Integer.toBinaryString(number-highbit-lowestbit));
 
     }
 }
