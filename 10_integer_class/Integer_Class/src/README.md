@@ -40,3 +40,5 @@
         - Integer.highestOneBit();
     16) 2진수 최저 비트
         - Integer.lowestOneBit();
+    17) 정수 값 출력 메서드
+        - Integer.intValue();
