@@ -17,8 +17,12 @@ public class Integer_Value {
             System.out.println(Integer.valueOf("21474836450").longValue());
         } catch (NumberFormatException e) {
             System.out.println("\"21474836450\"은 정수형 범위를 넘습니다.");
-            System.out.println("정수형(long) 최댓값 : " + Long.valueOf(Long.MAX_VALUE).longValue());
+            System.out.println("정수형(Long) 최댓값 : " + Long.valueOf(Long.MAX_VALUE).longValue());
         }
+
+        System.out.println("정수형(Byte) 최댓값 : " + Integer.valueOf(Byte.MAX_VALUE).byteValue());
+        System.out.println("정수형(Short) 최댓값 : " + Integer.valueOf(Short.MAX_VALUE).shortValue());
+
 
 
     }
