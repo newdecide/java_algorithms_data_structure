@@ -43,3 +43,5 @@
     17) 정수 값 출력 메서드
         - Integer.intValue();
         - Integer.longValue();
+        - Integer.byteValue();
+        - Integer.shortValue();
