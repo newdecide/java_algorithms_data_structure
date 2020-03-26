@@ -23,6 +23,10 @@ public class Integer_Value {
         System.out.println("정수형(Byte) 최댓값 : " + Integer.valueOf(Byte.MAX_VALUE).byteValue());
         System.out.println("정수형(Short) 최댓값 : " + Integer.valueOf(Short.MAX_VALUE).shortValue());
 
+        System.out.println("실수형(Float) 최댓값 : " + Integer.valueOf((int) Float.MAX_VALUE).floatValue());
+
+
+
 
 
     }
