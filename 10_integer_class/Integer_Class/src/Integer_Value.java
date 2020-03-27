@@ -1,3 +1,5 @@
+import static java.lang.Double.*;
+
 public class Integer_Value {
     public static void main(String[] args) {
         String number = "123";
@@ -23,7 +25,11 @@ public class Integer_Value {
         System.out.println("정수형(Byte) 최댓값 : " + Integer.valueOf(Byte.MAX_VALUE).byteValue());
         System.out.println("정수형(Short) 최댓값 : " + Integer.valueOf(Short.MAX_VALUE).shortValue());
 
-        System.out.println("실수형(Float) 최댓값 : " + Integer.valueOf((int) Float.MAX_VALUE).floatValue());
+        System.out.println("실수형(Float) 최댓값 : " + Float.MAX_VALUE);
+        System.out.println("실수형(Float) 정수형 크기로 변환 : " + Integer.valueOf((int) Float.MAX_VALUE).floatValue());
+
+        System.out.println("실수형(Double) 최댓값 : " + Double.MAX_VALUE);
+        System.out.println("실수형(Double) 정수형 크기로 변환 : " + Integer.valueOf((int) MAX_VALUE).doubleValue());
 
 
 

@@ -45,3 +45,5 @@
         - Integer.longValue();
         - Integer.byteValue();
         - Integer.shortValue();
+        - Integer.floatValue();
+        - Integer.doubleValue();
