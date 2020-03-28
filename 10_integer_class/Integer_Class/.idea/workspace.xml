@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d038f1b0-6f2d-4ec6-861a-c9ca7d84e3c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Integer_Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Integer_Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +43,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
-  <component name="RunManager" selected="Application.Integer_Value">
-    <configuration name="Integer_BitCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Integer_BitCount" />
-      <module name="Integer_Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Integer_Type_Size">
     <configuration name="Integer_Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integer_Combination" />
       <module name="Integer_Class" />
@@ -74,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Integer_Type_Size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer_Type_Size" />
+      <module name="Integer_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Integer_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Integer_Value" />
       <module name="Integer_Class" />
@@ -83,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integer_Type_Size" />
         <item itemvalue="Application.Integer_Value" />
         <item itemvalue="Application.Integer_MaxMin" />
         <item itemvalue="Application.Integer_Combination" />
         <item itemvalue="Application.Integer_Parse_Int" />
-        <item itemvalue="Application.Integer_BitCount" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +121,8 @@
       <workItem from="1585056476184" duration="596000" />
       <workItem from="1585144196064" duration="449000" />
       <workItem from="1585227009461" duration="317000" />
-      <workItem from="1585309125268" duration="572000" />
+      <workItem from="1585309125268" duration="991000" />
+      <workItem from="1585402620221" duration="372000" />
     </task>
     <servers />
   </component>
@@ -135,26 +134,26 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="581" y="390" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1583754897383" />
-    <state width="1238" height="413" key="GridCell.Tab.0.bottom" timestamp="1585309705871">
+    <state width="1238" height="413" key="GridCell.Tab.0.bottom" timestamp="1585403036719">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769437" />
-    <state width="1238" height="413" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1585309705871" />
-    <state width="1238" height="413" key="GridCell.Tab.0.center" timestamp="1585309705870">
+    <state width="1238" height="413" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1585403036719" />
+    <state width="1238" height="413" key="GridCell.Tab.0.center" timestamp="1585403036718">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769436" />
-    <state width="1238" height="413" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1585309705870" />
-    <state width="1238" height="413" key="GridCell.Tab.0.left" timestamp="1585309705870">
+    <state width="1238" height="413" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1585403036718" />
+    <state width="1238" height="413" key="GridCell.Tab.0.left" timestamp="1585403036718">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769436" />
-    <state width="1238" height="413" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1585309705870" />
-    <state width="1238" height="413" key="GridCell.Tab.0.right" timestamp="1585309705870">
+    <state width="1238" height="413" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1585403036718" />
+    <state width="1238" height="413" key="GridCell.Tab.0.right" timestamp="1585403036719">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2518" height="423" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1584427769437" />
-    <state width="1238" height="413" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1585309705870" />
+    <state width="1238" height="413" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1585403036719" />
     <state width="1238" height="500" key="GridCell.Tab.1.bottom" timestamp="1585227325966">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
