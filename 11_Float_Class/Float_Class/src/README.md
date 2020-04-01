@@ -9,4 +9,8 @@
         - Float.SIZE;
         - Float.MAX_EXPONENT;
         - Float.MIN_EXPONENT;
-    
+    3) 실수형 클래스 기타 메서드
+        - Float.MIN_NORMAL;
+        - Float.NaN;
+        - Float.NEGATIVE_INFINITY
+        - Float.POSITIVE_INFINITY
