@@ -9,3 +9,8 @@
         - Double.SIZE;
         - Double.MAX_EXPONENT;
         - Double.MIN_EXPONENT;
+    3) 실수형 클래스(64비트) 기타 메서드
+        - Double.MIN_NORMAL;
+        - Double.NaN;
+        - Double.NEGATIVE_INFINITY;
+        - Double.POSITIVE_INFINITY;
