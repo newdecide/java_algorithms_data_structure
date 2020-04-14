@@ -8,4 +8,6 @@
     4) 문자 대문자 확인 메서드
         - Character.isUpperCase();
     5) 문자 소문자 확인 메서드
-        
+        - Character.isLowerCase();
+    6) 문자 대문자로 변환 메서드
+        - Character.toUpperCase();
