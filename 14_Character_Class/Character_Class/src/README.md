@@ -18,3 +18,4 @@
         - Character.valueOf();
     10) 문자열의 문자값 보기
         - Character.codePointAt();
+        - Character.codePointBefore();

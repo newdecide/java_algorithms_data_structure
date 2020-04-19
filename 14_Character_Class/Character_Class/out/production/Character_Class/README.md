@@ -16,3 +16,6 @@
     8) 특수 문자
     9) 문자 값 출력
         - Character.valueOf();
+    10) 문자열의 문자값 보기
+        - Character.codePointAt();
+        - Character.codePointBefore();
