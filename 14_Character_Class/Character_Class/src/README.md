@@ -19,3 +19,6 @@
     10) 문자열의 문자값 보기
         - Character.codePointAt();
         - Character.codePointBefore();
+    11) 문자열 문자 위치 보기
+        - Character.codePointCount();
+        
