@@ -10,6 +10,12 @@ public class Character_codePointAt {
         for (int i = 1; i < charcode2.length()+1; i++){
             System.out.println("CodePointBefore("+i+") = " + charcode2.codePointBefore(i) + " : " +(char)charcode2.codePointBefore(i));
         }
+        System.out.println();
+
+        String charcode3 = "CodePointCount";
+        for (int i = 0; i < charcode3.length(); i++){
+            System.out.println("CodePointCount("+i+") = " + charcode3.codePointCount(i,charcode3.length()));
+        }
 
     }
 }
