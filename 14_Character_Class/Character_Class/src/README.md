@@ -21,4 +21,5 @@
         - Character.codePointBefore();
     11) 문자열 문자 위치 보기
         - Character.codePointCount();
-        
+    12) 문자 비교 메서드
+        - Character.equals();
