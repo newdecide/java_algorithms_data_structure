@@ -24,4 +24,6 @@
     12) 문자 비교 메서드
         - Character.equals();
     13) 문자 UTF-16 변환 메서드
-        - Character.toChars
+        - Character.toChars();
+    14) 문자 유니코드 네임 메서드
+        - Character.getName();
