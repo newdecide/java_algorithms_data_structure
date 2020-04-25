@@ -27,5 +27,7 @@
         - Character.toChars();
     14) 문자 유니코드 네임 메서드
         - Character.getName();
-    15) 문자 숫자 값
+    15) 문자 숫자값 메서드
         - Character.getNumericValue();
+    16) 문자 비교 메서드
+        - Character.compare();
