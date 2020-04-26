@@ -29,5 +29,6 @@
         - Character.getName();
     15) 문자 숫자값 메서드
         - Character.getNumericValue();
-    16) 문자 비교 메서드
+    16) 문자 비교 메서드2
         - Character.compare();
+    17) 문자 스페이스 확인 메서드

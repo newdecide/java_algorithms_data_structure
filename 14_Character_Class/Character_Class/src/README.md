@@ -31,3 +31,5 @@
         - Character.getNumericValue();
     16) 문자 비교 메서드2
         - Character.compare();
+    17) 문자 스페이스 문자 확인 메서드
+        - Character.isSpaceChar();
